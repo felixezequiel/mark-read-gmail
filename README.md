@@ -44,7 +44,6 @@ Esta variável se refere ao **campo de texto que mostra a quantidade de emails n
 > 
 > ![Contador de emails não lidos](./assets/gmail-unread-counter.png)
 > 
-> *Caso não tenha a pasta `assets`, crie uma e adicione a imagem lá.*
 
 ### DOTS_BUTTON
 ```javascript
@@ -58,7 +57,6 @@ Esta variável se refere ao **botão de três pontos (⋮) do lado direito** de 
 > 
 > ![Botão de três pontos do Gmail](./assets/gmail-dots-button.png)
 > 
-> *Caso não tenha a pasta `assets`, crie uma e adicione a imagem lá.*
 
 ### MARK_AS_READ_BUTTON
 ```javascript
@@ -72,7 +70,6 @@ Esta variável se refere ao botão **"Marcar todas como lidas"** que aparece no 
 > 
 > ![Menu Marcar como lidas](./assets/gmail-mark-as-read-menu.png)
 > 
-> *Caso não tenha a pasta `assets`, crie uma e adicione a imagem lá.*
 
 ## ⚠️ Observações importantes
 
