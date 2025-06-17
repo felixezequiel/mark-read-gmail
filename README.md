@@ -83,25 +83,6 @@ Esta variável se refere ao botão **"Marcar todas como lidas"** que aparece no 
 
 5. **Console do navegador**: Alguns navegadores requerem que você digite `allow pasting` antes de permitir colar código no console por motivos de segurança.
 
-## 🔧 Como adicionar as imagens de referência
-
-1. Crie uma pasta chamada `assets` na raiz do projeto:
-   ```bash
-   mkdir assets
-   ```
-
-2. Faça as capturas de tela necessárias:
-   - **Contador de emails não lidos**: Captura mostrando o número ao lado de "Caixa de entrada"
-   - **Botão de três pontos**: Captura mostrando o botão de opções no lado direito de um email
-   - **Menu "Marcar como lidas"**: Captura mostrando o menu dropdown que aparece após clicar no botão de três pontos
-
-3. Salve as imagens na pasta `assets`:
-   - `gmail-unread-counter.png` - para o contador de emails não lidos
-   - `gmail-dots-button.png` - para o botão de três pontos
-   - `gmail-mark-as-read-menu.png` - para o menu "Marcar todas como lidas"
-
-4. As imagens serão automaticamente referenciadas no README
-
 ## 🐛 Resolução de problemas
 
 ### Script não encontra os botões
