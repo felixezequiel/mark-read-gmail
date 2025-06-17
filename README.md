@@ -41,7 +41,6 @@ Esta variável se refere ao **campo de texto que mostra a quantidade de emails n
 
 > **📸 Imagem de referência:**
 > 
-> Para adicionar a imagem de referência, cole aqui a captura de tela mostrando o contador de emails não lidos ao lado de "Caixa de entrada".
 > 
 > ![Contador de emails não lidos](./assets/gmail-unread-counter.png)
 > 
@@ -56,7 +55,6 @@ Esta variável se refere ao **botão de três pontos (⋮) do lado direito** de 
 
 > **📸 Imagem de referência:**
 > 
-> Para adicionar a imagem de referência, cole aqui a captura de tela mostrando o botão de três pontos do Gmail.
 > 
 > ![Botão de três pontos do Gmail](./assets/gmail-dots-button.png)
 > 
@@ -71,7 +69,6 @@ Esta variável se refere ao botão **"Marcar todas como lidas"** que aparece no 
 
 > **📸 Imagem de referência:**
 > 
-> Para adicionar a imagem de referência, cole aqui a captura de tela mostrando o menu que aparece após clicar no botão de três pontos.
 > 
 > ![Menu Marcar como lidas](./assets/gmail-mark-as-read-menu.png)
 > 
